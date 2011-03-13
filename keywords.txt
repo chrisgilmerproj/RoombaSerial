@@ -1,0 +1,62 @@
+#######################################
+# Syntax Coloring Map For RoombaSerial
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RoombaSerial	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+getVelocityLimit	KEYWORD2
+getRadiusLimit	KEYWORD2
+
+wake	KEYWORD2
+start	KEYWORD2
+setBaud	KEYWORD2
+control	KEYWORD2
+safe	KEYWORD2
+full	KEYWORD2
+power	KEYWORD2
+spot	KEYWORD2
+clean	KEYWORD2
+maxMode	KEYWORD2
+drive	KEYWORD2
+motor	KEYWORD2
+ledOn	KEYWORD2
+play	KEYWORD2
+updateSensors	KEYWORD2
+forceDock	KEYWORD2
+
+getSensorData	KEYWORD2
+bumpright	KEYWORD2
+bumpleft	KEYWORD2
+wheelDropLeft	KEYWORD2
+wheelDropRight	KEYWORD2
+wheelDropCaster	KEYWORD2
+wallDetect	KEYWORD2
+cliffLeft	KEYWORD2
+cliffFrontLeft	KEYWORD2
+cliffFrontRight	KEYWORD2
+cliffRight	KEYWORD2
+virtualWallDetect	KEYWORD2
+
+goForward	KEYWORD2
+goBackward	KEYWORD2
+spinLeft	KEYWORD2
+spinRight	KEYWORD2
+stopMoving	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
